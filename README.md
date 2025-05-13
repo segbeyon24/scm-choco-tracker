@@ -1,1 +1,3 @@
-# scm-choco-tracker
+# Chocolate Supply Chain Tracker
+
+...in progress
