@@ -248,6 +248,8 @@ CREATE TABLE users (
     password VARCHAR(255) NOT NULL,  --  Store hashed passwords, not plain text
     role VARCHAR(255) NOT NULL
 );
+
+\dt
 ```
 
 5. Run the Application
